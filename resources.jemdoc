@@ -1,0 +1,40 @@
+# jemdoc: menu{MENU}{resources.html}, nofooter
+== Resources
+
+== Videos：演示视频
+=== Human-robot collaboration
+~~~
+  {}{img_left}{photos/v1.png}{alt text}{768}{384}{webm/HC.mp4}
+~~~
+
+=== Demonstration learning
+~~~
+{}{img_left}{photos/v2.png}{alt text}{768}{384}{webm/DL.mp4}
+
+~~~
+
+=== Robot compliant control
+~~~
+{}{img_left}{photos/v3.png}{alt text}{768}{384}{webm/RCC.mp4}
+~~~
+
+=== Visual servoing for mobile robots
+~~~
+{}{img_left}{photos/v4.png}{alt text}{768}{384}{webm/VSFMR.mp4}
+~~~
+
+=== Visual servoing for assembly
+~~~
+{}{img_left}{photos/v5.png}{alt text}{768}{384}{webm/VSFA.mp4}
+~~~
+
+=== Slam
+~~~
+
+~~~
+
+== Codes：开源代码
+~~~
+
+~~~
+

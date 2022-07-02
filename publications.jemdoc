@@ -1,0 +1,34 @@
+# jemdoc: menu{MENU}{publications.html}, nofooter
+== Publications 
+
+== Journals
+
+~~~
+. Dongdong Qin, *Andong Liu*, Wen-an Zhang, Jianming Xu, Li Yu. Learning from human demonstrations for wheel mobile manipulator: An unscented model predictive control approach. *IEEE Transactions on Neural Networks and Learning Systems*, 2022, Doi: 10.1109/TNNLS.2022.3171595.
+. Zhehao Jin, *Andong Liu*, Wen-an Zhang, Li Yu*, Chunyi Su. A learning-based framework for human-robot collaboration. *IEEE Transactions on Automation Science and Engineering*, 2022, Doi: 10.1109/TASE.2022.3161993.
+. Zhehao Jin, *Andong Liu* ,Wen-an Zhang, Li Yu. An optimal variable impedance control with consideration of the stability. IEEE Robotics and Automation Letters, 2022, 7(2): 1737 -1744.
+. Zhehao Jin, Jinhui Wu, *Andong Liu*, Wen-an Zhang, Li Yu. Policy-based deep reinforcement learning for visual servoing control of mobile robots with visibility constraints. *IEEE Transactions on Industrial Electronic*, 2022, 69(2): 1898 - 1908.
+. *Andong Liu*, Wen-an Zhang, Li Yu. Robust predictive trajectory tracking control for mobile robots with intermittent measurement and quantization.* IEEE Transactions on Industrial Electronic*, 2021, 68(1): 509 - 518.
+. *Andong Liu*, Wen-an Zhang, Li Yu, Huaicheng Yan, Rongchao Zhang. Formation control of multiple mobile robots incorporating an extended state observer and distributed model predictive approach. *IEEE Transactions on Systems*, Man, and Cybernetics: Systems, 2020, 50(11): 4587-4597.
+. Xusheng Yang, Wen-an Zhang, *Andong Liu*, Li Yu. Linear fusion estimation for range-only target tracking with nonlinear transformation. *IEEE Transactions on Industrial Informatics*, 2020, 16(10): 6403-6412.
+. Wen-an Zhang, Kang Zhou, Xusheng Yang,* Andong Liu*. Sequential fusion estimation for networked multisensor nonlinear systems. *IEEE Transactions on Industrial Electronic*, 2020, 67(6): 4991-4999.
+. Dan Ma, Jianqi Chen, *Andong Liu*, Jie Chen, Silviu-Iulian Niculescu. Explicit bounds for guaranteed stabilization by PID control of second-order unstable delay systems. *Automatica*, 2019, 100: 407-411.
+. Wen-an Zhang, Michael Chen, *Andong Liu*, Steven Liu. Aperiodic optimal linear estimation for networked systems with communication uncertainties.* IEEE Transactions on Cybernetics*, 2017, 47(8): 2256-2265.
+. *Andong Liu*, Wen-an Zhang, Michael Chen, Li Yu. Moving horizon estimation for mobile robots with multirate sampling. *IEEE Transactions on Industrial Electronic*, 2017, 64(2): 1457-1467.
+.  *Andong Liu*, Wen-an Zhang, Li Yu, Steven Liu, Michael Z.Q. Chen. New results on stabilization of networked control systems with packet disordering. *Automatica*, 2015, 52: 255-259.
+.  *Andong Liu*, Li Yu, Wen-an Zhang. Moving horizon SINR estimation for wireless networked systems. *IEEE Transactions on Industrial Informatics*, 2014, 10(1): 431-438. 
+. *Andong Liu*, Li Yu, Wen-an Zhang, Michael Z.Q. Chen. Moving horizon estimation for networked systems with quantized measurements and packet dropouts. *IEEE Transactions on Circuits and Systems I: Regular Papers*, 2013, 60(7): 1823-1834. 
+. Bo Chen, Li Yu, Wen-an Zhang, Andong Liu. Robust information fusion estimation for multiple delay-tolerant sensors with different failure rates. IEEE Transactions on Circuits and Systems I: Regular Papers, 2013, 60(2): 401-414.
+
+~~~
+
+== Conference Proceedings
+
+~~~
+. Z. Jin, D. Qin, *A. Liu*, W. -A. Zhang and L. Yu, " Constrained Variable Impedance Control using Quadratic Programming," 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022, pp. 1-6.
+. *A. Liu*, W. -a. Zhang, L. Yu and J. Chen, "Moving horizon estimation for multi-rate systems," 2015 54th IEEE Conference on Decision and Control (CDC), 2015, pp. 6850-6855, doi: 10.1109/CDC.2015.7403298.
+. *A. Liu*, L. Yu and W. Zhang, "Moving horizon estimation for networked systems with packet dropouts," 2012 IEEE 51st IEEE Conference on Decision and Control (CDC), 2012, pp. 763-768, doi: 10.1109/CDC.2012.6426635.
+. *A. Liu*, L. Yu, W. Zhang and D. He, "Model predictive control for networked control systems with random delay and packet disordering," 2011 8th Asian Control Conference (ASCC), 2011, pp. 653-658.
+
+~~~
+
