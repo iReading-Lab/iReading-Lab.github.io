@@ -5,46 +5,70 @@
 
 ~~~
 
-. Dongdong Qin, *Andong Liu**, Wen-an Zhang, Jianming Xu, Li Yu. Learning from human demonstrations for wheel mobile manipulator: An unscented model predictive control approach. IEEE Transactions on Neural Networks and Learning Systems, 2022, Doi: 10.1109/TNNLS.2022.3171595.
-. Zhehao Jin, *Andong Liu*, Wen-an Zhang, Li Yu*, Chunyi Su. A learning-based framework for human-robot collaboration. IEEE Transactions on Automation Science and Engineering, 2022, Doi: 10.1109/TASE.2022.3161993.
-. YaoWei Wang, *Andong Liu*, Wen-An Zhang, MinWu*. Synchronization tracking control of networked multi-axis motion systems: A cooperative distributed model predictive control approach. Control Engineering Practice, 2022, 126, 105233.
-. CongCong Jin, *Andong Liu*, Steven Liu, Wen-An Zhang*. A robot skill learning method based on improved stable estimator of dynamical systems. Acta Automatica Sinica, 2022, 48(7): 1771-1781. (in Chinese)
-. Zhehao Jin, *Andong Liu**, Wen-an Zhang, Li Yu. An optimal variable impedance control with consideration of the stability. IEEE Robotics and Automation Letters, 2022, 7(2): 1737 -1744.
-. *Andong Liu**, Enjun Yang, Jinhui Wu, You Teng, Li Yu. Double sparse low rank decomposition for irregular printed fabric defect detection. Neurocomputing, 2022, 482: 287-297.
-. Jinhui Wu, Zhehao Jin, *Andong Liu**, Li Yu, Fuwen Yang. A survey of learning-based control of robotic visual servoing systems. Journal of the Franklin Institute, 2022, 359(1): 556-577.
-. Zhehao Jin, Jinhui Wu, *Andong Liu**, Wen-an Zhang, Li Yu. Policy-based deep reinforcement learning for visual servoing control of mobile robots with visibility constraints. IEEE Transactions on Industrial Electronics, 2022, 69(2): 1898 - 1908. 
-. Jinhui Wu, Zhehao Jin, *Andong Liu**, Li Yu. Vision-based neural predictive tracking control for multi-manipulator systems with parametric uncertainty. ISA Transactions, 2021, 110, 247-257.
-. *Andong Liu* *, Dongdong Qin. Distributed predictive control of multiple mobile robots based on virtual structure method. Control and Decision, 2021, 36(5): 1273-1280. (in Chinese)
-. Zhehao Jin, Jinhui Wu, *Andong Liu**, Wen-an Zhang, Li Yu. Gaussian process-based nonlinear predictive control for visual servoing of constrained mobile robots with unknown dynamics. Robotics and Autonomous Systems, 2021, 136, 103712.
-. *Andong Liu*, Wen-an Zhang*, Li Yu. Robust predictive trajectory tracking control for mobile robots with intermittent measurement and quantization. IEEE Transactions on Industrial Electronic, 2021, 68(1): 509 - 518.
-. Zhehao Jin, *Andong Liu*, Li Yu*. Hierarchical human-robot cooperative control based on GPR and DRL. Acta Automatica Sinica, 2020, doi: 10.16383/j.aas.c190451. (in Chinese)
-. Wei Zhou, Wen-an Zhang, *Andong Liu**. Distributed predictive control of interconnected systems based on disturbance observation. IET Control Theory & Applications, 2020, 14(19): 3260-3269.
-. Dongdong Qin, *Andong Liu**, Dan Zhang, Hongjie Ni. Formation control of mobile robot systems incorporating primal-dual neural network and distributed predictive approach. Journal of the Franklin Institute, 2020, 357(17): 12454-12472. 
-. *Andong Liu*, Wen-an Zhang*, Li Yu, Huaicheng Yan, Rongchao Zhang. Formation control of multiple mobile robots incorporating an extended state observer and distributed model predictive approach. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2020, 50(11): 4587-4597. 
-. Jinhui Wu, Zhehao Jin, *Andong Liu**, Li Yu. Nonlinear model predictive control for visual servoing systems incorporating iterative linear quadratic gaussian. IET Control Theory & Applications, 2020, 14(14): 1989-1994. 
-. Xusheng Yang, Wen-an Zhang*, *Andong Liu*, Li Yu. Linear fusion estimation for range-only target tracking with nonlinear transformation. IEEE Transactions on Industrial Informatics, 2020, 16(10): 6403-6412. 
-. Wen-an Zhang, Kang Zhou, Xusheng Yang, *Andong Liu**. Sequential fusion estimation for networked multisensor nonlinear systems. IEEE Transactions on Industrial Electronic, 2020, 67(6): 4991-4999. 
-. Jinhui Wu, Xu Chen, *Andong Liu**, Li Yu. Predictive control for visual servoing control of cyber physical systems with packet loss. Peer-to-Peer Networking and Applications, 2019, 12: 1774-1784.
-. Dan Ma, Jianqi Chen, *Andong Liu*, Jie Chen*, Silviu-Iulian Niculescu. Explicit bounds for guaranteed stabilization by PID control of second-order unstable delay systems. Automatica, 2019, 100: 407-411.
-. Yaowei Wang, *Andong Liu**, Wen-an Zhang, Li Yu. GESO-based control for networked systems with time-varying delays. Measurement, 2019, 133: 281-287.
-. *Andong Liu**, Liye Bai. Distributed model predictive control for wide area measurement power systems under malicious attacks. IET Cyber-Physical Systems: Theory & Applications, 2018, 3(3): 111-118. 
-. *Andong Liu**, Wen-an Zhang, Bo Chen, Li Yu. Networked filtering with Markov transmission delays and packet disordering. IET Control Theory & Applications, 2018, 12(5): 687-693. 
-. Wen-an Zhang*, Michael Chen, *Andong Liu*, Steven Liu. Aperiodic optimal linear estimation for networked systems with communication uncertainties. IEEE Transactions on Cybernetics, 2017, 47(8): 2256-2265. 
-. *Andong Liu**, Rongchao Zhang, Wen-an Zhang, You Teng. Nash-optimization distributed model predictive control for multi mobile robots formation. Peer-to-Peer Networking and Applications, 2017, 10(3): 688-696.
-. *Andong Liu*, Wen-an Zhang*, Michael Chen, Li Yu. Moving horizon estimation for mobile robots with multirate sampling. IEEE Transactions on Industrial Electronic, 2017, 64(2): 1457-1467. 
-. *Andong Liu* *, Rongchao Zhang, Li Yu, Wen-an zhang. Extended state observer-based decentralized model predictive control. Control and Decision, 2016, 31(6): 1093-1098. (in Chinese)
-. Qiuxia Chen, *Andong Liu**. D-stability and disturbance attenuation properties for NCSs switched system approach. Journal of Systems Engineering and Electronics, 2016, 27(5): 1108-1114. 
-. Wen-an zhang*, *Andong Liu*, Kexing Xing. Stability analysis and stabilization of aperiodic sampled-data systems based on a switched system approach. Journal of the Franklin Institute, 2016, 353: 955-970.
-. *Andong Liu**, Wen-an Zhang, Li Yu, Steven Liu, Michael Z.Q. Chen. New results on stabilization of networked control systems with packet disordering. Automatica, 2015, 52: 255-259.
-. *Andong Liu**, Li Yu, Wen-an Zhang. Moving horizon SINR estimation for wireless networked systems. IEEE Transactions on Industrial Informatics, 2014, 10(1): 431-438.
-. Hongxiang Hu, *Andong Liu*, Qi Xuan, Li Yu*, Guangming Xie. Second-order consensus of multi-agent systems in the cooperation-competition network with switching topologies: A time-delayed impulsive control approach. Systems & Control Letters, 2013, 62(12): 1125-1135.
-. *Andong Liu*, Li Yu*, Dan Zhang, Wen-an Zhang. Finite-time H∞ control for discrete-time genetic regulatory networks with random delays and partly unknown transition probabilities. Journal of the Franklin Institute, 2013, 350(7): 1944-1961.
-. *Andong Liu**, Li Yu, Wen-an Zhang, Michael Z.Q. Chen. Moving horizon estimation for networked systems with quantized measurements and packet dropouts. IEEE Transactions on Circuits and Systems I: Regular Papers, 2013, 60(7): 1823-1834.
-. Bo Chen*, Li Yu, Wen-an Zhang, *Andong Liu*. Robust information fusion estimation for multiple delay-tolerant sensors with different failure rates. IEEE Transactions on Circuits and Systems I: Regular Papers, 2013, 60(2): 401-414.
-. *Andong Liu*, Li Yu*, Wen-an Zhang. Moving horizon estimation for networked systems with multiple packet dropouts. Journal of Process Control, 2012, 22(9): 1593-1608.
-. *Andong Liu*, Li Yu*, Wen-an Zhang, Bo Chen. H∞ filtering for discrete-time genetic regulatory networks with random delays. Mathematical Biosciences, 2012, 239(1): 97-105.
-. *Andong Liu*, Li Yu*, Wen-an Zhang. H∞ control for network-based systems with time-varying delay and packet disordering. Journal of the Franklin Institute, 2011, 348(5): 917-932.
-. *Andong Liu*, Li Yu*, Wen-an Zhang. One-step receding horizon H∞ control for networked control systems with random delay and packet disordering. ISA Transactions, 2011, 50(1): 44-52.
+. Zhehao Jin, *Andong Liu*, Wen-an Zhang, Li Yu, Chenguang Yang. Learning stable state-dependent variable impedance control for compliant manipulation. IEEE/ASME Transactions on Mechatronics, 2024, Doi: 10.1109/TMECH.2024.3466950.
+. Zhitao He, Yongyi Chen, Yang Zhao, Dan Zhang, *Andong Liu*, Hui Zhang. TSAN: A New Deep Learning-based Detection Method for Sensor Anomaly in Mobile Robots. IEEE Transactions on Industrial Electronics, 2024, Doi: 10.1109/TIE.2024.3454488.
+. Zhehao Jin, *Andong Liu*, Wen-an Zhang, Li Yu, Chenguang Yang. Learning an autonomous dynamic system to transfer periodic human motion skills. IEEE Transactions on Neural Networks and Learning Systems, 2024, Doi: 10.1109/TNNLS.2024.3397356.
+. *Andong Liu*, Wenqi He, Yang Zhao, Hongjie Ni, Ye Wang. Moving horizon estimation for localization of mobile robots with measurement outliers. Journal of Systems and Control Engineering, 2024, 238(8): 1367-1379.
+. *Andong Liu*, Yawen Zhang, Jiayun Fu, Yuankun Yan, Wen-an Zhang. 3D-AMM: a 3D artificial moment method for path planning of manipulator in multiple obstacles scenario. Industrial Robot, 2024, 51(5): 761-771.
+. Jiayun Fu, Zhehao Jin, *Andong Liu*, Wen-an Zhang, Li Yu. Non-parametric Gaussian process movement primitive with via-point constraint for effective and safe robot skill learning. Neurocomputing, 2024, 589, 127711.
+. *Andong Liu*, Jiayun Fu, Shuwen Zhan, Zhehao Jin, Wen-an Zhang. A policy searched-based optimization algorithm for obstacle avoidance in robot manipulators. IEEE Transactions on Industrial Electronics, 2024, 71(9): 11262-11271. 
+. Jinhui Wu, Zhehao Jin, *Andong Liu*, Li Yu, Fuwen Yang. A hierarchical data-driven predictive control of image-based visual servoing systems with unknown dynamics. IEEE Transactions on Cybernetics, 2024, 54(5): 3160-3173.
+. *Andong Liu*, Shuwen Zhan, Zhehao Jin, Wen-an Zhang. A variable impedance skill learning algorithm based on kernelized movement primitives. IEEE Transactions on Industrial Electronics, 2024, 71(1): 870-879. 
+. Dongdong Qin, Zhehao Jin, *Andong Liu*, Wen-An Zhang, Li Yu. Asynchronous event-triggered distributed predictive control for multiagent systems with parameterized synchronization constraints. IEEE Transactions on Automatic Control, 2024, 69(1): 403-409. 
+. Zhehao Jin, Weiyong Si, *Andong Liu*, Wen-an Zhang, Li Yu, Chenguang Yang. Learning a flexible neural energy function with a unique minimum for globally stable and accurate demonstration learning. IEEE Transactions on Robotics, 2023, 39(6): 4520-4538. 
+. Huazhong Zhu, Zhehao Jin, *Andong Liu*, Hongjie Ni. Gaussian process based cautious model predictive control for visual servoing of mobile robots. Nonlinear Dynamics, 2023, 111: 21779-21796.
+. Dongdong Qin, *Andong Liu*, Wen-an Zhang, Jianming Xu, Li Yu. Learning from human demonstrations for wheel mobile manipulator: An unscented model predictive control approach. IEEE Transactions on Neural Networks and Learning Systems, 2023, 34(12): 10864-10874. 
+. Jinyuan Liu, Minglei Fu, *Andong Liu*, Wen-an Zhang, Bo Chen. A homotopy invariant based on convex dissection topology and a distance optimal path planning algorithm. IEEE Robotics and Automation Letters, 2023, 8(11): 7695-7702.
+. Dongdong Qin, Zhehao Jin, *Andong Liu*, Wen-an Zhang, Li Yu. Event-triggered distributed predictive cooperation control for multi-agent systems subject to bounded disturbances. Automatica, 2023, 157, 111230.
+. Dongdong Qin, *Andong Liu*, Wen-An Zhang, Li Yu, Huaicheng Yan. Event-based distributed predictive approach for the cooperation of networked mobile manipulators. IEEE Systems Journal, 2023, 17(3): 4895-4906.
+. Zhehao Jin, *Andong Liu*, Wen-an Zhang, Li Yu, Chenguang Yang. Gaussian process movement primitive. Automatica, 2023, 155, 111120.
+. Wei Zhou, Jinhui Wu, *Andong Liu*, Wen-an Zhang, Li Yu. Neurodynamics-based distributed model predictive control of a low-speed two-stroke marine main engine power system. ISA Transactions, 2023, 138: 341-358.
+. Dongdong Qin, Zhehao Jin, Xiang Wu, *Andong Liu*, Wen-An Zhang, Li Yu. A distributed unscented predictive cooperation approach for networked mobile manipulators. IEEE Transactions on Control of Network Systems, 2023, 10(3): 1462-1471.
+. Zhehao Jin, Dongdong Qin, *Andong Liu*, Wen-an Zhang, Li Yu. Learning neural-shaped quadratic Lyapunov function for accurate and generalizable motion-skills transfer. Robotics and Computer-Integrated Manufacturing, 2023, 82, 102526.
+. Zhehao Jin, Dongdong Qin, *Andong Liu*, Wen-an Zhang, Li Yu. Model predictive variable impedance control of manipulators for adaptive precision-compliance tradeoff. IEEE/ASME Transactions on Mechatronics, 2023, 28(2): 1174-1186.
+. Dongdong Qin, *Andong Liu*, Wen-an Zhang, Li Yu. Cooperation and coordination transportation for nonholonomic mobile manipulators: A distributed model predictive control approach. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023, 53(2): 848-860. 
+. *Andong Liu*, Tao Chen, Huazhong Zhu, Minglei Fu, Jianming Xu. Fuzzy variable impedance-based adaptive neural network control in physical human-robot interaction. Journal of Systems and Control Engineering, 2023, 237(2): 220-230.
+. Zhehao Jin, *Andong Liu*, Wen-an Zhang, Li Yu, Chunyi Su. A learning-based framework for human-robot collaboration. IEEE Transactions on Automation Science and Engineering, 2023, 20(1): 506-517.
+. Jianwei Dong, Jianming Xu, Lei Wang, *Andong Liu*, Li Yu. External force estimation of the industrial robot based on model and SWVAKF. IEEE Transactions on Instrumentation and Measurement, 2022, 71, 7505311.
+. Jinhui Wu, Zhehao Jin, *Andong Liu*, Li Yu, Fuwen Yang. A hybrid deep-Q-network and model predictive control for point stabilization of visual servoing systems. Control Engineering Practice, 2022, 128, 105314.
+. YaoWei Wang, *Andong Liu*, Wen-An Zhang, MinWu. Synchronization tracking control of networked multi-axis motion systems: A cooperative distributed model predictive control approach. Control Engineering Practice, 2022, 126, 105233.
+. CongCong Jin, *Andong Liu*, Steven Liu, Wen-An Zhang. A robot skill learning method based on improved stable estimator of dynamical systems. Acta Automatica Sinica, 2022, 48(7): 1771-1781. (in Chinese)
+. Zhehao Jin, *Andong Liu*, Wen-an Zhang, Li Yu. An optimal variable impedance control with consideration of the stability. IEEE Robotics and Automation Letters, 2022, 7(2): 1737 -1744.
+. *Andong Liu*, Enjun Yang, Jinhui Wu, You Teng, Li Yu. Double sparse low rank decomposition for irregular printed fabric defect detection. Neurocomputing, 2022, 482: 287-297.
+. Jinhui Wu, Zhehao Jin, *Andong Liu*, Li Yu, Fuwen Yang. A survey of learning-based control of robotic visual servoing systems. Journal of the Franklin Institute, 2022, 359(1): 556-577.
+. Zhehao Jin, Jinhui Wu, *Andong Liu*, Wen-an Zhang, Li Yu. Policy-based deep reinforcement learning for visual servoing control of mobile robots with visibility constraints. IEEE Transactions on Industrial Electronics, 2022, 69(2): 1898 - 1908. 
+. Jinhui Wu, Zhehao Jin, *Andong Liu*, Li Yu. Vision-based neural predictive tracking control for multi-manipulator systems with parametric uncertainty. ISA Transactions, 2021, 110, 247-257.
+. *Andong Liu*, Dongdong Qin. Distributed predictive control of multiple mobile robots based on virtual structure method. Control and Decision, 2021, 36(5): 1273-1280. (in Chinese)
+. Zhehao Jin, Jinhui Wu, *Andong Liu*, Wen-an Zhang, Li Yu. Gaussian process-based nonlinear predictive control for visual servoing of constrained mobile robots with unknown dynamics. Robotics and Autonomous Systems, 2021, 136, 103712.
+. *Andong Liu*, Wen-an Zhang, Li Yu. Robust predictive trajectory tracking control for mobile robots with intermittent measurement and quantization. IEEE Transactions on Industrial Electronic, 2021, 68(1): 509 - 518.
+. Zhehao Jin, *Andong Liu*, Li Yu. Hierarchical human-robot cooperative control based on GPR and DRL. Acta Automatica Sinica, 2020, doi: 10.16383/j.aas.c190451. (in Chinese)
+. Wei Zhou, Wen-an Zhang, *Andong Liu*. Distributed predictive control of interconnected systems based on disturbance observation. IET Control Theory & Applications, 2020, 14(19): 3260-3269.
+. Dongdong Qin, *Andong Liu*, Dan Zhang, Hongjie Ni. Formation control of mobile robot systems incorporating primal-dual neural network and distributed predictive approach. Journal of the Franklin Institute, 2020, 357(17): 12454-12472. 
+. *Andong Liu*, Wen-an Zhang, Li Yu, Huaicheng Yan, Rongchao Zhang. Formation control of multiple mobile robots incorporating an extended state observer and distributed model predictive approach. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2020, 50(11): 4587-4597. 
+. Jinhui Wu, Zhehao Jin, *Andong Liu*, Li Yu. Nonlinear model predictive control for visual servoing systems incorporating iterative linear quadratic gaussian. IET Control Theory & Applications, 2020, 14(14): 1989-1994. 
+. Xusheng Yang, Wen-an Zhang, *Andong Liu*, Li Yu. Linear fusion estimation for range-only target tracking with nonlinear transformation. IEEE Transactions on Industrial Informatics, 2020, 16(10): 6403-6412. 
+. Wen-an Zhang, Kang Zhou, Xusheng Yang, *Andong Liu*. Sequential fusion estimation for networked multisensor nonlinear systems. IEEE Transactions on Industrial Electronic, 2020, 67(6): 4991-4999. 
+. Jinhui Wu, Xu Chen, *Andong Liu*, Li Yu. Predictive control for visual servoing control of cyber physical systems with packet loss. Peer-to-Peer Networking and Applications, 2019, 12: 1774-1784.
+. Dan Ma, Jianqi Chen, *Andong Liu*, Jie Chen, Silviu-Iulian Niculescu. Explicit bounds for guaranteed stabilization by PID control of second-order unstable delay systems. Automatica, 2019, 100: 407-411.
+. Yaowei Wang, *Andong Liu*, Wen-an Zhang, Li Yu. GESO-based control for networked systems with time-varying delays. Measurement, 2019, 133: 281-287.
+. *Andong Liu*, Liye Bai. Distributed model predictive control for wide area measurement power systems under malicious attacks. IET Cyber-Physical Systems: Theory & Applications, 2018, 3(3): 111-118. 
+. *Andong Liu*, Wen-an Zhang, Bo Chen, Li Yu. Networked filtering with Markov transmission delays and packet disordering. IET Control Theory & Applications, 2018, 12(5): 687-693. 
+. Wen-an Zhang, Michael Chen, *Andong Liu*, Steven Liu. Aperiodic optimal linear estimation for networked systems with communication uncertainties. IEEE Transactions on Cybernetics, 2017, 47(8): 2256-2265. 
+. *Andong Liu*, Rongchao Zhang, Wen-an Zhang, You Teng. Nash-optimization distributed model predictive control for multi mobile robots formation. Peer-to-Peer Networking and Applications, 2017, 10(3): 688-696.
+. *Andong Liu*, Wen-an Zhang, Michael Chen, Li Yu. Moving horizon estimation for mobile robots with multirate sampling. IEEE Transactions on Industrial Electronic, 2017, 64(2): 1457-1467. 
+. *Andong Liu*, Rongchao Zhang, Li Yu, Wen-an zhang. Extended state observer-based decentralized model predictive control. Control and Decision, 2016, 31(6): 1093-1098. (in Chinese)
+. Qiuxia Chen, *Andong Liu*. D-stability and disturbance attenuation properties for NCSs switched system approach. Journal of Systems Engineering and Electronics, 2016, 27(5): 1108-1114. 
+. Wen-an zhang, *Andong Liu*, Kexing Xing. Stability analysis and stabilization of aperiodic sampled-data systems based on a switched system approach. Journal of the Franklin Institute, 2016, 353: 955-970.
+. *Andong Liu*, Wen-an Zhang, Li Yu, Steven Liu, Michael Z.Q. Chen. New results on stabilization of networked control systems with packet disordering. Automatica, 2015, 52: 255-259.
+. *Andong Liu*, Li Yu, Wen-an Zhang. Moving horizon SINR estimation for wireless networked systems. IEEE Transactions on Industrial Informatics, 2014, 10(1): 431-438.
+. Hongxiang Hu, *Andong Liu*, Qi Xuan, Li Yu, Guangming Xie. Second-order consensus of multi-agent systems in the cooperation-competition network with switching topologies: A time-delayed impulsive control approach. Systems & Control Letters, 2013, 62(12): 1125-1135.
+. *Andong Liu*, Li Yu, Dan Zhang, Wen-an Zhang. Finite-time H∞ control for discrete-time genetic regulatory networks with random delays and partly unknown transition probabilities. Journal of the Franklin Institute, 2013, 350(7): 1944-1961.
+. *Andong Liu*, Li Yu, Wen-an Zhang, Michael Z.Q. Chen. Moving horizon estimation for networked systems with quantized measurements and packet dropouts. IEEE Transactions on Circuits and Systems I: Regular Papers, 2013, 60(7): 1823-1834.
+. Bo Chen, Li Yu, Wen-an Zhang, *Andong Liu*. Robust information fusion estimation for multiple delay-tolerant sensors with different failure rates. IEEE Transactions on Circuits and Systems I: Regular Papers, 2013, 60(2): 401-414.
+. *Andong Liu*, Li Yu, Wen-an Zhang. Moving horizon estimation for networked systems with multiple packet dropouts. Journal of Process Control, 2012, 22(9): 1593-1608.
+. *Andong Liu*, Li Yu, Wen-an Zhang, Bo Chen. H∞ filtering for discrete-time genetic regulatory networks with random delays. Mathematical Biosciences, 2012, 239(1): 97-105.
+. *Andong Liu*, Li Yu, Wen-an Zhang. H∞ control for network-based systems with time-varying delay and packet disordering. Journal of the Franklin Institute, 2011, 348(5): 917-932.
+. *Andong Liu*, Li Yu, Wen-an Zhang. One-step receding horizon H∞ control for networked control systems with random delay and packet disordering. ISA Transactions, 2011, 50(1): 44-52.
 . Li Yu , *Andong Liu*, Wen-an Zhang. H∞ Robust Predictive Control for Networked Control Systems with Time Delays. Control and Decision. 2010, 25(5): 676-680. (in Chinese)
 
 
@@ -53,6 +77,10 @@
 == Conference Proceedings
 
 ~~~
+. Chengyu Zhu, Yicheng Wang, Hantuo Chen, *Andong Liu*, Hongjie Ni. Robust Formation Predictive Control of Image-based Mobile Robots With Neural Network Optimization. 2024 43rd Chinese Control Conference (CCC), Kunming, China, 2024, pp. 2793-2798.
+. Huachi Xiao, Haotian Huang, Zhehao Jin, *Andong Liu*, Xiang Qiu, Wen-an Zhang. Robot Manipulation Skill Learning Based on Stable Sparse Gaussian Process. 2024 IEEE International Conference on Industrial Technology (ICIT), Bristol, United Kingdom, 2024, pp. 1-5.
+. Wenqi He, Yuhao Sun, Huazhong Zhu, *Andong Liu*. Ultra-wideband localization of mobile robots based on moving horizon optimization. Proceedings of the 8th International Conference on Advanced Robotics and Mechatronics (ICARM), 2023, pp. 457-463.
+. Zhehao Jin, Dongdong Qin, *Andong Liu*, Wen-an. Zhang, Li Yu. Constrained Variable Impedance Control using Quadratic Programming. Proceedings of the 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022, pp. 8319-8324.
 . Zhehao Jin, Dongdong Qin, *Andong Liu*, Wen-an. Zhang, Li Yu. Constrained Variable Impedance Control using Quadratic Programming. Proceedings of the 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022, pp. 1-6.
 . Dongdong Qin, *Andong Liu*, You Teng, et al. Trajectory tracking control for mobile robots with abnormal data and external disturbances. Proceedings of the 38th Chinese control Conference, Guangzhou, 2019, 5439-5444.
 . Zhehao Jin, **Andong Liu**, Xiang Qiu, L. Yu. 基于RGB-D传感器的移动目标跟踪算法设计. Proceedings of the 37rd Chinese Control Conference, 2018, 5465-5470. (in Chinese)

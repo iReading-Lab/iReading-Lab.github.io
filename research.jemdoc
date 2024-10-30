@@ -1,33 +1,62 @@
 # jemdoc: menu{MENU}{research.html}, nofooter
 == Research
 
-=== Robot compliant control
-~~~
-{}{img_left}{photos/du1.png}{alt text}{326px}{245px}
-Robotic tasks with rich physical interactions, such as polishing, assembly and human-robot collaborations, propose demands for the robot compliant property to ensure operation safety. However, to provide the desired compliant property for robots, we will face two challenging problems. The first one is that we need to accurately establish robot dynamic models, based on which the compliant control could be designed. Offline identification approaches suffer from the accuracy and generalization limitations, and online learning approaches with real-time constraints will be more suitable. The second one is the contradiction between the robot compliance and the tracking accuracy. A useful way to handle this issue is adapting a strategy to adaptively trade-off the robot compliance and accuracy, such as using variable impedance control.
-
-- Z. Jin, *A. Liu*, W. -A. Zhang and L. Yu, "An Optimal Variable Impedance Control With Consideration of the Stability," in IEEE Robotics and Automation Letters, vol. 7, no. 2, pp. 1737-1744, April 2022.
-- Z. Jin, D. Qin, *A. Liu*, W. -A. Zhang and L. Yu, " Constrained Variable Impedance Control using Quadratic Programming," 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022, pp. 1-6.
-
-~~~
 
 === Human-behaviors learning
 
 ~~~
 {}{img_left}{photos/du2.png}{alt text}{326px}{245px}
-Human-behaviors learning acts as an important role in the human-robot collaboration. It can be used to increase the cognition of robots to humans, and thus increase the collaboration safety, efficiency. Moreover, it can also be directly used for robot imitation learning. Human-behaviors are always encoded by dynamic systems (DSs), and according to the different types of the learned DSs, human-behaviors learning algorithms can be divided into two types. The first type learns non- autonomous DSs (N-ADSs) where behaviors are driven by the time. This type gains high reproduction accuracy with sacrifice of the flexibility. Moreover, it also inherits disadvantages of regression learning, such as the model expressive limitation and demands of manually feature design, etc. Using non-parametric learning approach might solve these issues well. The second type leans autonomous DSs (ADSs), and the stability of the learned ADSs are mostly cared. However, there exists contradictions between the system stability, model accuracy and model generalization capacity. A feasible way to handle these contradictions is learning data-driven Lyapunov functions. 
+Human-behaviors learning acts as an important role in the human-robot collaboration. It can be used to increase the cognition of robots to humans, and thus increase the collaboration safety, efficiency. Moreover, it can also be directly used for *robot imitation learning*. Human-behaviors are always encoded by dynamic systems (DSs), and according to the different types of the learned DSs, human-behaviors learning algorithms can be divided into two types. The first type learns non- autonomous DSs (N-ADSs) where behaviors are driven by the time. This type gains high reproduction accuracy with sacrifice of the flexibility. Moreover, it also inherits disadvantages of regression learning, such as the model expressive limitation and demands of manually feature design, etc. Using non-parametric learning approach might solve these issues well. The second type leans autonomous DSs (ADSs), and the stability of the learned ADSs are mostly cared. However, there exists contradictions between the system stability, model accuracy and model generalization capacity. A feasible way to handle these contradictions is learning data-driven Lyapunov functions. 
 
-- Z. Jin, *A. Liu*, W. -A. Zhang, L. Yu and C. -Y. Su, "A Learning Based Hierarchical Control Framework for Human-Robot Collaboration," in IEEE Transactions on Automation Science and Engineering, doi: 10.1109/TASE.2022.3161993.
+- Zhehao Jin, Weiyong Si, *Andong Liu*, Wen-an Zhang, Li Yu, Chenguang Yang. Learning a flexible neural energy function with a unique minimum for globally stable and accurate demonstration learning. IEEE Transactions on Robotics, 2023, 39(6): 4520-4538.
+- Zhehao Jin, *Andong Liu*, Wen-an Zhang, Li Yu, Chenguang Yang. Gaussian process movement primitive. Automatica, 2023, 155, 111120.
+- Zhehao Jin, Dongdong Qin, *Andong Liu*, Wen-an Zhang, Li Yu. Learning neural-shaped quadratic Lyapunov function for accurate and generalizable motion-skills transfer. Robotics and Computer-Integrated Manufacturing, 2023, 82, 102526.
+- *Andong Liu*, Jiayun Fu, Shuwen Zhan, Zhehao Jin, Wen-an Zhang. A policy searched-based optimization algorithm for obstacle avoidance in robot manipulators. IEEE Transactions on Industrial Electronics, 2024, 71(9): 11262-11271. 
+- *Andong Liu*, Shuwen Zhan, Zhehao Jin, Wen-an Zhang. A variable impedance skill learning algorithm based on kernelized movement primitives. IEEE Transactions on Industrial Electronics, 2024, 71(1): 870-879.
 
 ~~~
+
+
+=== Distributed predictive cooperation control of MASs
+
+~~~
+{}{img_left}{photos/du3.png}{alt text}{326px}{245px}
+Recent years have witnessed a thriving development of multi-agent systems (MASs) for its advantages of increasing efficiency, robustness, and flexibility in practical applications, such as power systems, traffic systems, manufacturing systems, and economic systems. In multi-agent system, each agent shares system and decision information with its neighbors via a communication network and cooperates to complete common tasks. Due to the ability to effectively deal with constraints and utilize the prediction information obtained by interacting with neighboring agents to estimate the future behaviors of neighbors, distributed model predictive control (DMPC) is widely used in multi-agent systems. However, the works mentioned above are implemented in a time-triggered manner, that is, the updating of system measurement and control sequences are performed periodically. This may give rise to unnecessary communication and computing resources scarce in networked multi-agent systems. In addition, how to design a novel event-triggering condition to effectively reduce the consumption of communication and computational burden of the distributed MPC while ensuring the basic performance of multi-agent systems is an important issue worthy of attention.
+
+- Dongdong Qin, Zhehao Jin, *Andong Liu*, Wen-An Zhang, Li Yu. Asynchronous event-triggered distributed predictive control for multiagent systems with parameterized synchronization constraints. IEEE Transactions on Automatic Control, 2024, 69(1): 403-409.
+- Dongdong Qin, Zhehao Jin, *Andong Liu*, Wen-an Zhang, Li Yu. Event-triggered distributed predictive cooperation control for multi-agent systems subject to bounded disturbances. Automatica, 2023, 157, 111230.
+- Dongdong Qin, *Andong Liu*, Wen-an Zhang, Jianming Xu, Li Yu. Learning from human demonstrations for wheel mobile manipulator: An unscented model predictive control approach. IEEE Transactions on Neural Networks and Learning Systems, 2023, 34(12): 10864-10874.
+- Dongdong Qin, Zhehao Jin, Xiang Wu, *Andong Liu*, Wen-An Zhang, Li Yu. A distributed unscented predictive cooperation approach for networked mobile manipulators. IEEE Transactions on Control of Network Systems, 2023, 10(3): 1462-1471.
+- Dongdong Qin, *Andong Liu*, Wen-an Zhang, Li Yu. Cooperation and coordination transportation for nonholonomic mobile manipulators: A distributed model predictive control approach. IEEE Transactions on Systems, Man, and Cybernetics: Systems, 2023, 53(2): 848-860.
+
+~~~
+
+
+
+=== Robot compliant control
+~~~
+{}{img_left}{photos/du1.png}{alt text}{326px}{245px}
+Robotic tasks with rich physical interactions, such as polishing, assembly and human-robot collaborations, propose demands for the robot compliant property to ensure operation safety. However, to provide the desired compliant property for robots, we will face two challenging problems. The first one is that we need to accurately establish robot dynamic models, based on which the compliant control could be designed. Offline identification approaches suffer from the accuracy and generalization limitations, and online learning approaches with real-time constraints will be more suitable. The second one is the contradiction between the robot compliance and the tracking accuracy. A useful way to handle this issue is adapting a strategy to adaptively trade-off the robot compliance and accuracy, such as using variable impedance control.
+
+- Zhehao Jin, Dongdong Qin, *Andong Liu*, Wen-an Zhang, Li Yu. Model predictive variable impedance control of manipulators for adaptive precision-compliance tradeoff. IEEE/ASME Transactions on Mechatronics, 2023, 28(2): 1174-1186.
+- Zhehao Jin, *Andong Liu*, Wen-an Zhang, Li Yu, Chunyi Su. A learning-based framework for human-robot collaboration. IEEE Transactions on Automation Science and Engineering, 2023, 20(1): 506-517.
+- Zhehao Jin, *Andong Liu*, Wen-an Zhang, Li Yu. An optimal variable impedance control with consideration of the stability. IEEE Robotics and Automation Letters, 2022, 7(2): 1737 -1744.
+- Zhehao Jin, Dongdong Qin, *Andong Liu*, Wen-an. Zhang, Li Yu. Constrained Variable Impedance Control using Quadratic Programming. Proceedings of the 2022 IEEE International Conference on Robotics and Automation (ICRA), 2022, pp. 8319-8324.
+
+
+~~~
+
 
 === Visual servoing
 ~~~
 {}{img_left}{photos/du4.png}{alt text}{326px}{245px}
 Visual servoing can dramatically expand the application field of the robots. To enable visual servoing, we will face two problems. The first one is the visual estimation for 6-D object-pose. We use variational inference and convolutional neural network to handle this issue. The second one is the control problem, that is how to utilize the estimated 6-D object-pose to control the robot to complete the task. To consider the servo safety and efficiency, we design learning-based control algorithms, that is combing the adaptive capacity of learning algorithms and the stability property of control theorems to achieve high-efficient and safe control. 
 
-- Z. Jin, J. Wu, *A. Liu*, W. -A. Zhang and L. Yu, "Policy-Based Deep Reinforcement Learning for Visual Servoing Control of Mobile Robots With Visibility Constraints," in IEEE Transactions on Industrial Electronics, vol. 69, no. 2, pp. 1898-1908, Feb. 2022.
-- Z. Jin, J. Wu, *A. Liu*, W. -A. Zhang and L. Yu. Gaussian Process-Based Nonlinear Predictive Control for Visual Servoing of Constrained Mobile Robots with Unknown Dynamics. Robotics and Autonomous Systems, 2021, 136(103712): 1-12.
+- Jinhui Wu, Zhehao Jin, *Andong Liu*, Li Yu, Fuwen Yang. A hierarchical data-driven predictive control of image-based visual servoing systems with unknown dynamics. IEEE Transactions on Cybernetics, 2024, 54(5): 3160-3173.
+- Zhehao Jin, Jinhui Wu, *Andong Liu*, Wen-an Zhang, Li Yu. Policy-based deep reinforcement learning for visual servoing control of mobile robots with visibility constraints. IEEE Transactions on Industrial Electronics, 2022, 69(2): 1898 - 1908.
+- Jinhui Wu, Zhehao Jin, *Andong Liu*, Li Yu, Fuwen Yang. A hybrid deep-Q-network and model predictive control for point stabilization of visual servoing systems. Control Engineering Practice, 2022, 128, 105314.
+- Jinhui Wu, Zhehao Jin, *Andong Liu*, Li Yu, Fuwen Yang. A survey of learning-based control of robotic visual servoing systems. Journal of the Franklin Institute, 2022, 359(1): 556-577.
+- Zhehao Jin, Jinhui Wu, *Andong Liu*, Wen-an Zhang, Li Yu. Gaussian process-based nonlinear predictive control for visual servoing of constrained mobile robots with unknown dynamics. Robotics and Autonomous Systems, 2021, 136, 103712.
 
 ~~~
 
@@ -39,13 +68,5 @@ Slam is used in the Localization and navigation tasks of mobile robots, such as 
 
 ~~~
 
-=== Distributed predictive cooperation control of MASs
 
-~~~
-{}{img_left}{photos/du3.png}{alt text}{326px}{245px}
-Recent years have witnessed a thriving development of multi-agent systems (MASs) for its advantages of increasing efficiency, robustness, and flexibility in practical applications, such as power systems, traffic systems, manufacturing systems, and economic systems. In multi-agent system, each agent shares system and decision information with its neighbors via a communication network and cooperates to complete common tasks. Due to the ability to effectively deal with constraints and utilize the prediction information obtained by interacting with neighboring agents to estimate the future behaviors of neighbors, distributed model predictive control (DMPC) is widely used in multi-agent systems. However, the works mentioned above are implemented in a time-triggered manner, that is, the updating of system measurement and control sequences are performed periodically. This may give rise to unnecessary communication and computing resources scarce in networked multi-agent systems. In addition, how to design a novel event-triggering condition to effectively reduce the consumption of communication and computational burden of the distributed MPC while ensuring the basic performance of multi-agent systems is an important issue worthy of attention.
-
-- D. Qin, *A. Liu*, J. Xu, W. -A. Zhang and L. Yu, "Learning From Human Demonstrations for Wheel Mobile Manipulator: An Unscented Model Predictive Control Approach," in IEEE Transactions on Neural Networks and Learning Systems, doi: 10.1109/TNNLS.2022.3171595.
-
-~~~
 

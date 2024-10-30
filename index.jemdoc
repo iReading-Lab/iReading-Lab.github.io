@@ -2,30 +2,31 @@
 == Intelligent sensing and decision-making lab
 
 
-Intelligent sensing and decision-making lab is directed by Prof. Wen-An Zhang and Prof. Andong Liu at the Department of Control science and Engineering, College of Information Engineering, 
-Zhejiang University of Technology. We focus on intelligent sensing, control and learning for autonomous systems. Current research interests contain information fusing, predictive control, 
-robotic control and learning algorithms.
+Intelligent sensing and decision-making lab is directed by Prof. Wen-An Zhang and Prof. Andong Liu at the College of Information Engineering, Zhejiang University of Technology. We focus on intelligent sensing, control and learning of autonomous systems. My current research interests include information fusion, the application of model predictive control in robots, and robot imitation learning.
+
 
 ~~~
-{}{img_left}{photos/bio4.jpeg}{alt text}{652px}{430px}
-
+{}{img_left}{photos/bio1.jpg}{alt text}{426px}{295px}
+Team photos
 ~~~
 
 == News
 
 ~~~
-- \[2022.02\]Our paper “Constrained Variable Impedance Control using Quadratic Programming” was accepted by ICRA! 
-- \[2022.02\]Our paper “Policy-Based Deep Reinforcement Learning for Visual Servoing Control of Mobile Robots With Visibility Constraints” was published in IEEE Transactions on Industrial Electronics! 
-- \[2022.03\]Our paper “A Learning Based Hierarchical Control Framework for Human-Robot Collaboration” was accepted by IEEE Transactions on Automation Science and Engineering! 
-- \[2022.04\]Our paper “An Optimal Variable Impedance Control With Consideration of the Stability” was published in IEEE Robotics and Automation Letters! 
-- \[2022.05\]Our paper “Learning From Human Demonstrations for Wheel Mobile Manipulator: An Unscented Model Predictive Control Approach” was accepted by IEEE Transactions on Neural Networks and Learning Systems! 
-- \[2022.05\]Doctor Zhehao Jin gave a presentation at Pre-ICRA 2022. 
-- \[2022.06\]Our paper “Synchronization Tracking Control of Networked Multi-Axis Motion Systems: A Cooperative Distributed Model Predictive Control Approach” was accepted by Control Engineering Practice! 
-- \[2022.07\]Our paper “Cooperation and Coordination Transportation for Nonholonomic Mobile Manipulators: A Distributed Model Predictive Control Approach” was accepted by IEEE Transactions on Systems, Man, and Cybernetics: Systems! 
-- \[2022.08\]Our paper “A hybrid deep-Q-network and model predictive control for point stabilization of visual servoing systems” was accepted by Control Engineering Practice! 
-- \[2022.08\]Our paper “Fuzzy Variable Impedance-Based Adaptive Neural Network Control in Physical Human-Robot Interaction” was accepted by Journal of Systems and Control Engineering! 
-- \[2022.09\]Our paper “Model Predictive Variable Impedance Control of Manipulators for Adaptive Precision-compliance Trade-off” was accepted by IEEE/ASME Transactions on Mechatronics! 
-- \[2022.09\]Our paper “External force estimation of the industrial robot based on the error probability model and SWVAKF” was accepted by IEEE Transactions on Instrumentation & Measurement! 
+- \[2023.10\] Our paper “A Homotopy Invariant Based on Convex Dissection Topology and a Distance Optimal Path Planning Algorithm” was accepted by IEEE Robotics and Automation Letters!
+- \[2023.10\] Our paper “Gaussian process based cautious model predictive control for visual servoing of mobile robots” was accepted by Nonlinear Dynamics!
+- \[2023.08\] Our paper “Learning a flexible neural energy function with a unique minimum for globally stable and accurate demonstration learning” was accepted by IEEE Transactions on Robotics!
+- \[2023.07\] Our paper “Event-triggered distributed predictive cooperation control for multi-agent systems subject to bounded disturbances” was accepted by Automatica!
+- \[2023.04\] Our paper “Ultra-wideband localization of mobile robots based on moving horizon optimization” was accepted by  the Proceedings of 2023 IEEE International Conference on Advanced Robotics and Mechatronics!
+- \[2023.04\] Our paper “Event-based distributed predictive approach for the cooperation of networked mobile manipulators” was accepted by IEEE Systems Journal!
+- \[2023.04\] Our paper “Gaussian process movement primitive” was accepted by Automatica!
+- \[2023.03\] Our paper “Asynchronous event-triggered distributed predictive control for multi-agent systems with parameterized synchronization constraints” was accepted by IEEE Transactions on Automatic Control! 
+- \[2023.03\] Our paper “Neurodynamics-based distributed model predictive control of a low-speed two-stroke marine main engine power system” was accepted by ISA Transactions! 
+- \[2023.02\] Our paper “A distributed unscented predictive cooperation approach for networked mobile manipulators” was accepted by IEEE Transactions on Control of Network Systems! 
+- \[2023.02\] Our paper “A variable impedance skill learning algorithm based on kernelized movement primitives” was accepted by IEEE Transactions on Industrial Electronics! 
+- \[2023.01\] Our paper “Learning neural-shaped quadratic Lyapunov function for accurate and generalizable motion-skills transfer” was accepted by Robotics and Computer-Integrated Manufacturing! 
+
+
 
 
 ~~~
